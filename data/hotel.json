@@ -1,0 +1,842 @@
+[
+	{
+		"id": 1,
+		"agentId": 38076,
+		"name": "Wyndham Majestic Sun 4 Bedroom",
+		"slug": "amet-rem-tempora",
+		"content": "Libero omnis aut odio quia est. Reprehenderit sed quam ut est eum ullam facere et. Dolorem et voluptatem molestiae vero et. Minus vero sed et quia. Doloribus quisquam cum corporis molestiae.",
+		"status": "publish",
+		"price": "3150.00",
+		"isNegotiable": false,
+		"propertyType": "Villa",
+		"condition": "Good",
+		"rating": 5,
+		"ratingCount": 1,
+		"contactNumber": "1-407-607-1375",
+		"amenities": [
+			{
+				"id": 42453,
+				"guestRoom": 8
+			},
+			{
+				"id": 30289,
+				"bedRoom": 6
+			},
+			{
+				"id": 5821,
+				"wifiAvailability": true
+			},
+			{
+				"id": 22411,
+				"parkingAvailability": true
+			},
+			{
+				"id": 95762,
+				"poolAvailability": true
+			},
+			{
+				"id": 27621,
+				"airCondition": false
+			},
+			{
+				"id": 96437,
+				"extraBedFacility": false
+			}
+		],
+		"image": {
+			"id": 90096,
+			"url": "images/real_estates/Wyndham_Majestic/1.jpg",
+			"thumb_url": "images/real_estates/Wyndham_Majestic/1.jpg"
+		},
+		"location": {
+			"id": 67404,
+			"lat": 40.706877,
+			"lng": -74.011265,
+			"formattedAddress": "52623 Donnie Roads",
+			"zipcode": "68225-1064",
+			"city": "Nestorview",
+			"state_long": "Washington",
+			"state_short": "WY",
+			"country_long": "Tanzania",
+			"country_short": "VN"
+		},
+		"gallery": [
+			{
+				"id": 1,
+				"url": "images/real_estates/Wyndham_Majestic/1.jpg"
+			},
+			{
+				"id": 2,
+				"url": "images/real_estates/Wyndham_Majestic/2.jpg"
+			},
+			{
+				"id": 3,
+				"url": "images/real_estates/Wyndham_Majestic/3.jpg"
+			},
+			{
+				"id": 4,
+				"url": "images/real_estates/Wyndham_Majestic/4.jpg"
+			},
+			{
+				"id": 5,
+				"url": "images/real_estates/Wyndham_Majestic/5.jpg"
+			}
+		]
+	},
+	{
+		"id": 2,
+		"agentId": 22344,
+		"name": "Wyndham Flagstaff",
+		"slug": "dolore-rerum-voluptates",
+		"content": "Sint aliquam voluptates nam. Exercitationem at ipsam. Ducimus natus ipsa nulla dolores aliquid. Occaecati minus dolores suscipit iste voluptatibus numquam qui tempore.",
+		"status": "publish",
+		"price": "166.95",
+		"isNegotiable": true,
+		"propertyType": "Hotel",
+		"condition": "Poor",
+		"rating": 5,
+		"ratingCount": 1,
+		"contactNumber": "407-607-1375",
+		"amenities": [
+			{
+				"id": 23592,
+				"guestRoom": 2
+			},
+			{
+				"id": 7393,
+				"bedRoom": 8
+			},
+			{
+				"id": 43675,
+				"wifiAvailability": false
+			},
+			{
+				"id": 19250,
+				"parkingAvailability": true
+			},
+			{
+				"id": 4504,
+				"poolAvailability": true
+			},
+			{
+				"id": 25986,
+				"airCondition": true
+			},
+			{
+				"id": 75036,
+				"extraBedFacility": false
+			}
+		],
+		"image": {
+			"id": 1,
+			"url": "images/real_estates/Wyndham_Flagstaff/1.jpg",
+			"thumb_url": "images/real_estates/Wyndham_Flagstaff/1.jpg"
+		},
+		"location": {
+			"id": 57557,
+			"lat": 40.7168,
+			"lng": -74.0465,
+			"formattedAddress": "28740 Purdy Rue",
+			"zipcode": "26632",
+			"city": "Flagstaff",
+			"state_long": "Arizona",
+			"state_short": "AZ",
+			"country_long": "Saint Helena",
+			"country_short": "TK"
+		},
+		"gallery": [
+			{
+				"id": 64454,
+				"url": "images/real_estates/Wyndham_Flagstaff/1.jpg"
+			},
+			{
+				"id": 21253,
+				"url": "images/real_estates/Wyndham_Flagstaff/2.jpg"
+			},
+			{
+				"id": 46809,
+				"url": "images/real_estates/Wyndham_Flagstaff/3.jpg"
+			},
+			{
+				"id": 21253,
+				"url": "images/real_estates/Wyndham_Flagstaff/4.jpg"
+			},
+			{
+				"id": 46809,
+				"url": "images/real_estates/Wyndham_Flagstaff/5.jpg"
+			}
+		]
+	},
+	{
+		"id": 34842,
+		"agentId": 66343,
+		"name": "Wyndham Ocean Walk",
+		"slug": "nulla-ullam-officia",
+		"content": "Totam voluptatum iusto autem est sapiente eius. Autem qui incidunt beatae harum iusto dolorem numquam voluptates qui. Repellendus aut deserunt ipsum ad excepturi velit tempore ut reiciendis. Ducimus officia animi voluptatem sequi. Ut enim sequi delectus adipisci nemo praesentium illo. Rerum ut ab eum.",
+		"status": "draft",
+		"price": "180.60",
+		"isNegotiable": false,
+		"propertyType": "Villa",
+		"condition": "Average",
+		"rating": 5,
+		"ratingCount": 14,
+		"contactNumber": "407-607-1375",
+		"amenities": [
+			{
+				"id": 35106,
+				"guestRoom": 2
+			},
+			{
+				"id": 23084,
+				"bedRoom": 2
+			},
+			{
+				"id": 62049,
+				"wifiAvailability": false
+			},
+			{
+				"id": 69839,
+				"parkingAvailability": false
+			},
+			{
+				"id": 51897,
+				"poolAvailability": false
+			},
+			{
+				"id": 3389,
+				"airCondition": false
+			},
+			{
+				"id": 90560,
+				"extraBedFacility": true
+			}
+		],
+		"image": {
+			"id": 42681,
+			"url": "images/real_estates/Wyndham_Ocean_Walk/1.jpg",
+			"thumb_url": "images/real_estates/Wyndham_Ocean_Walk/1.jpg"
+		},
+		"location": {
+			"id": 45160,
+			"lat": 40.7405,
+			"lng": -73.9878,
+			"formattedAddress": "453 Beth Passage",
+			"zipcode": "78170",
+			"city": "Daytona Beach",
+			"state_long": "Florida",
+			"state_short": "FL",
+			"country_long": "United States",
+			"country_short": "US"
+		},
+		"gallery": [
+			{
+				"id": 1,
+				"url": "images/real_estates/Wyndham_Ocean_Walk/1.jpg"
+			},
+			{
+				"id": 2,
+				"url": "images/real_estates/Wyndham_Ocean_Walk/2.jpg"
+			},
+			{
+				"id": 3,
+				"url": "images/real_estates/Wyndham_Ocean_Walk/3.jpg"
+			},
+			{
+				"id": 4,
+				"url": "images/real_estates/Wyndham_Ocean_Walk/4.jpg"
+			},
+			{
+				"id": 5,
+				"url": "images/real_estates/Wyndham_Ocean_Walk/5.jpg"
+			}
+		]
+	},
+	{
+		"id": 4,
+		"agentId": 62059,
+		"name": "Wyndham La Cascada",
+		"slug": "minus-dolores-quia",
+		"content": "Voluptates commodi nihil voluptatem ea. Id aut ea aliquam perspiciatis quo voluptatum sapiente quas. Esse nobis dolores.",
+		"status": "publish",
+		"price": "261.45",
+		"isNegotiable": true,
+		"propertyType": "Hotel",
+		"condition": "Terrible",
+		"rating": 5,
+		"ratingCount": 12,
+		"contactNumber": "(301) 450-0248 x4505",
+		"amenities": [
+			{
+				"id": 43258,
+				"guestRoom": 3
+			},
+			{
+				"id": 44033,
+				"bedRoom": 4
+			},
+			{
+				"id": 33164,
+				"wifiAvailability": false
+			},
+			{
+				"id": 9369,
+				"parkingAvailability": false
+			},
+			{
+				"id": 73172,
+				"poolAvailability": false
+			},
+			{
+				"id": 60056,
+				"airCondition": true
+			},
+			{
+				"id": 79307,
+				"extraBedFacility": true
+			}
+		],
+		"image": {
+			"id": 87047,
+			"url": "images/real_estates/Wyndham_La_Cascada/1.jpg",
+			"thumb_url": "images/real_estates/Wyndham_La_Cascada/1.jpg"
+		},
+		"location": {
+			"id": 27125,
+			"lat": 40.7673,
+			"lng": -74.0462,
+			"formattedAddress": "8196 Bins Road",
+			"zipcode": "43464",
+			"city": "Braulioburgh",
+			"state_long": "California",
+			"state_short": "MT",
+			"country_long": "Austria",
+			"country_short": "CL"
+		},
+		"gallery": [
+			{
+				"id": 62073,
+				"url": "images/real_estates/Wyndham_La_Cascada/1.jpg"
+			},
+			{
+				"id": 94501,
+				"url": "images/real_estates/Wyndham_La_Cascada/2.jpg"
+			},
+			{
+				"id": 11548,
+				"url": "images/real_estates/Wyndham_La_Cascada/3.jpg"
+			},
+			{
+				"id": 94501,
+				"url": "images/real_estates/Wyndham_La_Cascada/4.jpg"
+			},
+			{
+				"id": 11548,
+				"url": "images/real_estates/Wyndham_La_Cascada/5.jpg"
+			}
+		]
+	},
+	{
+		"id": 75801,
+		"agentId": 28419,
+		"name": "Wyndham Governors Green",
+		"slug": "repellat-excepturi-nobis",
+		"content": "Quam cum nihil a quod nam assumenda repellat qui. Suscipit iste facilis aut dolore voluptatum iure. Neque eius numquam rerum occaecati. Totam ratione animi voluptas ex. Laborum modi eius neque inventore rerum.",
+		"status": "draft",
+		"price": "525.00",
+		"isNegotiable": false,
+		"propertyType": "Hotel",
+		"condition": "Poor",
+		"rating": 5,
+		"ratingCount": 2,
+		"contactNumber": "055-387-6388",
+		"amenities": [
+			{
+				"id": 91599,
+				"guestRoom": 8
+			},
+			{
+				"id": 54794,
+				"bedRoom": 3
+			},
+			{
+				"id": 23246,
+				"wifiAvailability": true
+			},
+			{
+				"id": 81884,
+				"parkingAvailability": true
+			},
+			{
+				"id": 10766,
+				"poolAvailability": true
+			},
+			{
+				"id": 84257,
+				"airCondition": false
+			},
+			{
+				"id": 83346,
+				"extraBedFacility": false
+			}
+		],
+		"image": {
+			"id": 32194,
+			"url": "images/real_estates/Wyndham_Governors_Green/1.jpg",
+			"thumb_url": "images/real_estates/Wyndham_Governors_Green/1.jpg"
+		},
+		"location": {
+			"id": 33715,
+			"lat": 40.9003,
+			"lng": -74.5117,
+			"formattedAddress": "80766 Pearlie Roads",
+			"zipcode": "85895-0513",
+			"city": "East Jamie",
+			"state_long": "Oklahoma",
+			"state_short": "OR",
+			"country_long": "Palestinian Territory",
+			"country_short": "ZM"
+		},
+		"gallery": [
+			{
+				"id": 51437,
+				"url": "images/real_estates/Wyndham_Governors_Green/1.jpg"
+			},
+			{
+				"id": 62903,
+				"url": "images/real_estates/Wyndham_Governors_Green/2.jpg"
+			},
+			{
+				"id": 69198,
+				"url": "images/real_estates/Wyndham_Governors_Green/3.jpg"
+			},
+			{
+				"id": 69198,
+				"url": "images/real_estates/Wyndham_Governors_Green/4.jpg"
+			},
+			{
+				"id": 69198,
+				"url": "images/real_estates/Wyndham_Governors_Green/5.jpg"
+			}
+		]
+	},
+	{
+		"id": 63811,
+		"agentId": 22353,
+		"name": "Wyndham Glacier Canyon",
+		"slug": "earum-provident-adipisci",
+		"content": "Dolores tempora distinctio. Excepturi reprehenderit blanditiis quibusdam reprehenderit non quo atque sunt. Sint sed sit ut et doloremque amet reprehenderit.",
+		"status": "draft",
+		"price": "735.00",
+		"isNegotiable": true,
+		"propertyType": "Hotel",
+		"condition": "Good",
+		"rating": 5,
+		"ratingCount": 12,
+		"contactNumber": "(352) 594-5474 x93019",
+		"amenities": [
+			{
+				"id": 17643,
+				"guestRoom": 7
+			},
+			{
+				"id": 23712,
+				"bedRoom": 1
+			},
+			{
+				"id": 47458,
+				"wifiAvailability": false
+			},
+			{
+				"id": 82666,
+				"parkingAvailability": true
+			},
+			{
+				"id": 46037,
+				"poolAvailability": true
+			},
+			{
+				"id": 20784,
+				"airCondition": false
+			},
+			{
+				"id": 63472,
+				"extraBedFacility": true
+			}
+		],
+		"image": {
+			"id": 52861,
+			"url": "images/real_estates/Wyndham_Glacier_Canyon/1.jpg",
+			"thumb_url": "images/real_estates/Wyndham_Glacier_Canyon/1.jpg"
+		},
+		"location": {
+			"id": 23076,
+			"lat": 40.8214,
+			"lng": -75.2052,
+			"formattedAddress": "8424 Padberg Flats",
+			"zipcode": "63836-1545",
+			"city": "Uptonmouth",
+			"state_long": "Virginia",
+			"state_short": "NJ",
+			"country_long": "Qatar",
+			"country_short": "GT"
+		},
+		"gallery": [
+			{
+				"id": 98348,
+				"url": "images/real_estates/Wyndham_Glacier_Canyon/1.jpg"
+			},
+			{
+				"id": 10832,
+				"url": "images/real_estates/Wyndham_Glacier_Canyon/2.jpg"
+			},
+			{
+				"id": 70635,
+				"url": "images/real_estates/Wyndham_Glacier_Canyon/3.jpg"
+			},
+			{
+				"id": 10832,
+				"url": "images/real_estates/Wyndham_Glacier_Canyon/4.jpg"
+			},
+			{
+				"id": 70635,
+				"url": "images/real_estates/Wyndham_Glacier_Canyon/5.jpg"
+			}
+		]
+	},
+	{
+		"id": 35137,
+		"agentId": 63123,
+		"name": "Wyndham Royal Sea Cliff",
+		"slug": "numquam-distinctio-eius",
+		"content": "Id ea quasi magnam aspernatur omnis. Inventore possimus aut autem iure ut eum. Quia fuga hic similique voluptas officiis esse. Veritatis voluptatibus qui ut. Voluptatem enim sit assumenda rerum. Ad ut enim necessitatibus totam quia cumque asperiores laborum.",
+		"status": "publish",
+		"price": "1050.00",
+		"isNegotiable": false,
+		"propertyType": "Hotel",
+		"condition": "Good",
+		"rating": 5,
+		"ratingCount": 11,
+		"contactNumber": "1-619-861-6069 x3877",
+		"amenities": [
+			{
+				"id": 42547,
+				"guestRoom": 7
+			},
+			{
+				"id": 59276,
+				"bedRoom": 4
+			},
+			{
+				"id": 26908,
+				"wifiAvailability": true
+			},
+			{
+				"id": 48314,
+				"parkingAvailability": false
+			},
+			{
+				"id": 15833,
+				"poolAvailability": false
+			},
+			{
+				"id": 12431,
+				"airCondition": false
+			},
+			{
+				"id": 59575,
+				"extraBedFacility": true
+			}
+		],
+		"image": {
+			"id": 91141,
+			"url": "images/real_estates/Wyndham_Royal_Sea_Cliff/1.jpg",
+			"thumb_url": "images/real_estates/Wyndham_Royal_Sea_Cliff/1.jpg"
+		},
+		"location": {
+			"id": 10393,
+			"lat": 40.8453,
+			"lng": -76.0512,
+			"formattedAddress": "43299 Murazik Extension",
+			"zipcode": "87445",
+			"city": "Loraineberg",
+			"state_long": "Nebraska",
+			"state_short": "NJ",
+			"country_long": "Central African Republic",
+			"country_short": "NG"
+		},
+		"gallery": [
+			{
+				"id": 99115,
+				"url": "images/real_estates/Wyndham_Royal_Sea_Cliff/1.jpg"
+			},
+			{
+				"id": 27188,
+				"url": "images/real_estates/Wyndham_Royal_Sea_Cliff/2.jpg"
+			},
+			{
+				"id": 33855,
+				"url": "images/real_estates/Wyndham_Royal_Sea_Cliff/3.jpg"
+			},
+			{
+				"id": 27188,
+				"url": "images/real_estates/Wyndham_Royal_Sea_Cliff/4.jpg"
+			},
+			{
+				"id": 33855,
+				"url": "images/real_estates/Wyndham_Royal_Sea_Cliff/5.jpg"
+			}
+		]
+	},
+	{
+		"id": 91552,
+		"agentId": 9488,
+		"name": "Wyndham Grand Desert",
+		"slug": "nobis-et-et",
+		"content": "Labore voluptatem laborum quod est. Nihil voluptates et praesentium quis. Culpa est ut voluptatem molestiae sint non veritatis suscipit ab. Quia accusamus laudantium aut eaque minus architecto voluptatem vero maxime. Libero minima aperiam provident rerum autem voluptatem veniam est quos.",
+		"status": "draft",
+		"price": "1050.00",
+		"isNegotiable": false,
+		"propertyType": "Villa",
+		"condition": "Average",
+		"rating": 5,
+		"ratingCount": 8,
+		"contactNumber": "(484) 092-0621 x11827",
+		"amenities": [
+			{
+				"id": 43134,
+				"guestRoom": 3
+			},
+			{
+				"id": 44490,
+				"bedRoom": 6
+			},
+			{
+				"id": 43432,
+				"wifiAvailability": false
+			},
+			{
+				"id": 60072,
+				"parkingAvailability": false
+			},
+			{
+				"id": 80885,
+				"poolAvailability": true
+			},
+			{
+				"id": 39788,
+				"airCondition": false
+			},
+			{
+				"id": 28924,
+				"extraBedFacility": true
+			}
+		],
+		"image": {
+			"id": 14297,
+			"url": "images/real_estates/Wyndham_Grand_Desert/1.jpg",
+			"thumb_url": "images/real_estates/Wyndham_Grand_Desert/1.jpg"
+		},
+		"location": {
+			"id": 93702,
+			"lat": 40.4451,
+			"lng": -79.9184,
+			"formattedAddress": "73311 Freida Point",
+			"zipcode": "27499-3830",
+			"city": "Vincetown",
+			"state_long": "Maine",
+			"state_short": "PA",
+			"country_long": "Belarus",
+			"country_short": "BQ"
+		},
+		"gallery": [
+			{
+				"id": 35180,
+				"url": "images/real_estates/Wyndham_Grand_Desert/1.jpg"
+			},
+			{
+				"id": 27573,
+				"url": "images/real_estates/Wyndham_Grand_Desert/2.jpg"
+			},
+			{
+				"id": 68402,
+				"url": "images/real_estates/Wyndham_Grand_Desert/3.jpg"
+			},
+			{
+				"id": 27573,
+				"url": "images/real_estates/Wyndham_Grand_Desert/4.jpg"
+			},
+			{
+				"id": 68402,
+				"url": "images/real_estates/Wyndham_Grand_Desert/5.jpg"
+			}
+		]
+	},
+	{
+		"id": 26601,
+		"agentId": 61604,
+		"name": "Wyndham National Harbor",
+		"slug": "eum-voluptas-tempore",
+		"content": "Natus provident voluptatum quibusdam minima non officiis beatae. Nobis est architecto sequi laboriosam id maiores harum et. Quo dolores consequuntur nostrum ullam sapiente asperiores itaque dolores. Et nobis voluptatem dolores corrupti accusantium. Magni voluptas quis inventore.",
+		"status": "draft",
+		"price": "1050.00",
+		"isNegotiable": false,
+		"propertyType": "Villa",
+		"condition": "Average",
+		"rating": 5,
+		"ratingCount": 5,
+		"contactNumber": "150.663.2821",
+		"amenities": [
+			{
+				"id": 70472,
+				"guestRoom": 6
+			},
+			{
+				"id": 88236,
+				"bedRoom": 6
+			},
+			{
+				"id": 29649,
+				"wifiAvailability": true
+			},
+			{
+				"id": 70319,
+				"parkingAvailability": true
+			},
+			{
+				"id": 78746,
+				"poolAvailability": false
+			},
+			{
+				"id": 78269,
+				"airCondition": true
+			},
+			{
+				"id": 95269,
+				"extraBedFacility": true
+			}
+		],
+		"image": {
+			"id": 22340,
+			"url": "images/real_estates/Wyndham_National_Harbor/1.jpg",
+			"thumb_url": "images/real_estates/Wyndham_National_Harbor/1.jpg"
+		},
+		"location": {
+			"id": 81726,
+			"lat": 44.0543,
+			"lng": -71.393,
+			"formattedAddress": "303 Volkman Lakes",
+			"zipcode": "85094-6329",
+			"city": "Lake Taylorstad",
+			"state_long": "West Virginia",
+			"state_short": "IA",
+			"country_long": "Botswana",
+			"country_short": "DO"
+		},
+		"gallery": [
+			{
+				"id": 70509,
+				"url": "images/real_estates/Wyndham_National_Harbor/1.jpg"
+			},
+			{
+				"id": 32412,
+				"url": "images/real_estates/Wyndham_National_Harbor/2.jpg"
+			},
+			{
+				"id": 12967,
+				"url": "images/real_estates/Wyndham_National_Harbor/3.jpg"
+			},
+			{
+				"id": 32412,
+				"url": "images/real_estates/Wyndham_National_Harbor/4.jpg"
+			},
+			{
+				"id": 12967,
+				"url": "images/real_estates/Wyndham_National_Harbor/5.jpg"
+			}
+		]
+	},
+	{
+		"id": 13498,
+		"agentId": 52252,
+		"name": "Wyndham Palm Aire",
+		"slug": "eligendi-ex-ut",
+		"content": "Adipisci illum fugiat. Tempore est fugiat. Facere veritatis assumenda rem dolor.",
+		"status": "publish",
+		"price": "1050.00",
+		"isNegotiable": true,
+		"propertyType": "Hotel",
+		"condition": "Excellent",
+		"rating": 5,
+		"ratingCount": 8,
+		"contactNumber": "492.701.7429 x567",
+		"amenities": [
+			{
+				"id": 76686,
+				"guestRoom": 6
+			},
+			{
+				"id": 18771,
+				"bedRoom": 8
+			},
+			{
+				"id": 54155,
+				"wifiAvailability": true
+			},
+			{
+				"id": 22192,
+				"parkingAvailability": true
+			},
+			{
+				"id": 5566,
+				"poolAvailability": false
+			},
+			{
+				"id": 48604,
+				"airCondition": false
+			},
+			{
+				"id": 15424,
+				"extraBedFacility": true
+			}
+		],
+		"image": {
+			"id": 60214,
+			"url": "images/real_estates/Wyndham_Palm_Aire/1.jpg",
+			"thumb_url": "images/real_estates/Wyndham_Palm_Aire/1.jpg"
+		},
+		"location": {
+			"id": 82805,
+			"lat": 43.0992,
+			"lng": -78.9296,
+			"formattedAddress": "368 Fadel Isle",
+			"zipcode": "58291-9076",
+			"city": "Kilbackland",
+			"state_long": "Wisconsin",
+			"state_short": "WV",
+			"country_long": "Denmark",
+			"country_short": "GH"
+		},
+		"gallery": [
+			{
+				"id": 7788,
+				"url": "images/real_estates/Wyndham_Palm_Aire/1.jpg"
+			},
+			{
+				"id": 21707,
+				"url": "images/real_estates/Wyndham_Palm_Aire/2.jpg"
+			},
+			{
+				"id": 7459,
+				"url": "images/real_estates/Wyndham_Palm_Aire/3.jpg"
+			},
+			{
+				"id": 7459,
+				"url": "images/real_estates/Wyndham_Palm_Aire/4.jpg"
+			},
+			{
+				"id": 7459,
+				"url": "images/real_estates/Wyndham_Palm_Aire/5.jpg"
+			}
+		]
+	}
+]
